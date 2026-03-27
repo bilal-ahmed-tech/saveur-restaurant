@@ -303,8 +303,9 @@ section {
   position: relative;
   min-height: 100dvh;
   background-image: url("../images/hero-overlay.webp");
-  background-size: contain;
   background-position: center;
+   background-size: cover;
+    background-repeat: no-repeat;
   padding: 70px 20px;
   background-attachment: fixed;
   display: flex;
