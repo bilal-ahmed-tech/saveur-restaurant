@@ -419,7 +419,7 @@ section {
 
 .hero-scroll {
   position: absolute;
-  bottom: 32px;
+  bottom: -4px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
